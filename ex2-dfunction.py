@@ -34,3 +34,5 @@ for i in range(0, 4):
         print(" *** Error: illegal die value ***")
         print("+-------+")
 print(" The Program ran successfully")
+#-------------------------------------
+print("Add this line from the Github website for the first time")
